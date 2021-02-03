@@ -1,0 +1,17 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Andrew Fahmy (ajfahmy)
+
+In the most recent commit, Andrew added 2 files: hw1.Rmd and hw1.html.
+The commit ID is 68196f5598ac366cc2d83589e0b3b19e5491249c.
+
+I did not encounter any errors while knitting Andrew's hw1.Rmd file.
+
+A tip for making Git/GitHub easier to learn and operate is don't be afraid to ask questions, especially if you are new to the program. I had lots of questions but I feel much more confident now having asked questions when I was confused than I would be if I had tried to figure everything out by myself.
